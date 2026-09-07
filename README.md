@@ -4,10 +4,18 @@
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
 
 # EQUIPMENTS REQUIRED
+<img width="1600" height="968" alt="WhatsApp Image 2026-09-07 at 1 56 34 PM" src="https://github.com/user-attachments/assets/543f848b-612d-45b9-8cfc-52aefd42c93e" />
+
 
 # IP ASSIGNMENT
 
+<img width="817" height="503" alt="image" src="https://github.com/user-attachments/assets/cd32b517-c5f4-4ff6-a753-dff47901a61c" />
+
+
 # NETWORK DIAGRAM
+<img width="1096" height="1600" alt="WhatsApp Image 2026-09-07 at 1 31 12 PM (2)" src="https://github.com/user-attachments/assets/6587588b-337a-4037-b8e1-48e8ef0b636e" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-07 at 1 31 13 PM" src="https://github.com/user-attachments/assets/8126edb5-37de-4aa3-96ec-62e7c488f6d1" />
+
 
 
 # PROCEDURE
@@ -22,6 +30,8 @@ STEP 10: Verify the connectivity between PC Terminals in different networks usin
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
 
 # OUTPUT
+<img width="1600" height="1099" alt="WhatsApp Image 2026-09-07 at 1 31 13 PM (1)" src="https://github.com/user-attachments/assets/9205d551-b565-4007-ae34-275bfd92ff1a" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-07 at 1 31 13 PM (2)" src="https://github.com/user-attachments/assets/86224159-dfe5-4093-84ca-ae36b8171bd2" />
 
 
 
